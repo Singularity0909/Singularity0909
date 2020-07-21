@@ -8,8 +8,11 @@
 [![MAIL](https://img.shields.io/static/v1?label=MAIL&message=%20&color=green2&logo=gmail&style=flat-square&logoColor=white)](mailto:904854724@qq.com)
 
 👨‍🎓 **About:** 19-year-old developer from China.  
+
 👨‍💻 **Languages:** C++, Python, Java, PHP.  
+
 🎹 **Hobbies:** Coding, Music, Gaming.  
+
 🏢 **Organizations:** [@Programming-With-Love](https://github.com/Programming-With-Love)
 
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
