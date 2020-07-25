@@ -1,5 +1,3 @@
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=Singularity0909&show_icons=true"> -->
-
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ### Hi there I'm 2U. 👋
@@ -15,3 +13,4 @@
 🏢 **Organizations:** [@Programming-With-Love](https://github.com/Programming-With-Love)
 
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=Singularity0909&show_icons=true"> -->
