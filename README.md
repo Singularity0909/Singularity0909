@@ -1,7 +1,6 @@
 <!-- <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 <!-- ### Hi there I'm 2U. 👋 -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Singularity0909&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=wordpress&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.macrohard.cn)](https://www.macrohard.cn) -->
